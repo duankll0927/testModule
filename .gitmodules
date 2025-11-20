@@ -1,3 +1,7 @@
 [submodule "ext/testSubModule"]
 	path = ext/testSubModule
 	url = https://github.com/duankll0927/testSubModule.git
+[submodule "external/testSubModule"]
+	path = external/testSubModule
+	url = https://github.com/duankll0927/testSubModule.git
+	branch = test
